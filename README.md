@@ -11,7 +11,7 @@ Whether you’re dealing with images that are too large, too small, or simply no
 
 ### Option 1: From the GitHub Releases Page (Recommended)
 
-Download the latest version of `AutoStitch.htm` from the [Releases page](https://github.com/2rude/Autostitch/releases), then open it in your web browser.
+Download the latest version of `AutoStitch.htm` from the [Releases page](https://github.com/GeneaCoder/Autostitch/releases), then open it in your web browser.
 
 ### Option 2: Clone the Repository Manually
 
