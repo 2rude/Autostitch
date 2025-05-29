@@ -108,6 +108,8 @@ Want to start over? Click the **George** button or reload the page.
 
 ## 11. Customization (Optional)
 
+> 🛠️ *Customization settings begin around line **1080** in `AutoStitch.htm`.*
+> 
 If you use AutoStitch often, you may want to customize the defaults by editing `AutoStitch.htm` in a **plain text editor** (not Word!).
 
 ### Border Size
