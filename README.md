@@ -16,7 +16,7 @@ Download the latest version of `AutoStitch.htm` from the [Releases page](https:/
 ### Option 2: Clone the Repository Manually
 
 ```bash
-git clone https://github.com/2rude/Autostitch.git
+git clone https://github.com/GeneaCoder/Autostitch.git
 ```
 
 Then open the `AutoStitch.htm` file locally in your browser.
@@ -160,3 +160,20 @@ Set a default font like this:
 let selectedFont = "Courier New";
 ```
 Change to `"Comic Sans MS"`, `"Cool Font"`, etc. Note: **Autofit works best with Courier New**.
+
+### Advanced Customization
+
+There’s more, but I’m not writing a novel for an audience of one.
+
+If you end up using the crap out of this and want access to deeper customization options (like annotation presets, region/newspaper templates, etc.), let me know — I’ll write the **Advanced Customization** section when someone actually wants it.
+
+---
+
+## 12. Disclaimer
+
+I made this tool to help me organize family history articles.  
+It works well. Maybe too well.
+
+So here’s the deal: **If you use AutoStitch for anything shady, illegal, or just plain weird... that’s on you, not me.**
+
+Use your judgment. Use it for good. Preferably with snacks.
