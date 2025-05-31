@@ -1579,7 +1579,7 @@ for (let i = 1; i <= 5; i++) {
 	});
 
 	// &#55357;&#56541; Text Input Listener
-	custTextInput.addEventListener("change", function () {
+	custTextInput.addEventListener("input", function () {
 		customText[i - 1] = this.value.trim(); // Store text, remove leading/trailing spaces
 		updateLivePreview("Custom Text"); // &#55357;&#56613; Call the preview update
 	});
